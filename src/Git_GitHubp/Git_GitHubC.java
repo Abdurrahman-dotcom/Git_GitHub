@@ -6,6 +6,7 @@ public class Git_GitHubC {
 		
 		System.out.println("Hello world from Java");
 		System.out.println("Hello world from gitHub");
+		System.out.println("Greeting from Java");
 	}
 
 }
